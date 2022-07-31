@@ -68,7 +68,7 @@ export default {
         this.columns = [
             {field: 'username', header: 'Username', style: 'min-width:120px;'},
             {field: 'fullname', header: 'Fullname', style: 'min-width:120px;'},
-            {field: 'email', header: 'Email', style: 'min-width:120px;'},
+            {field: 'email', header: 'Email', style: 'min-width:200px;'},
             {field: 'role', header: 'Role', style: 'min-width:120px;'},
             {field: 'time_in', header: 'Time IN', style: 'min-width:120px;'},
             {field: 'time_out', header: 'Time OUT', style: 'min-width:120px;'},
